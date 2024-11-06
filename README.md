@@ -7,6 +7,7 @@ cars_0001.jpg
 
 cars_0001.jpeg
 
+Use deduplicator.ipynb to find and remove such duplicated files.
 
 ## Features
 
@@ -55,6 +56,11 @@ names:
   1: class2
   ...
 ```
+
+## Screenshot
+## Output:
+![{2B084F2B-EE21-45C6-B1C9-EEB0ED296A7A}](https://github.com/user-attachments/assets/e425a620-b3af-4662-8da9-e6dc75a993d6)
+
 
 ## Contributing
 
