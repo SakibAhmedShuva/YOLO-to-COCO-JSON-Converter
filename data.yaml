@@ -1,0 +1,13 @@
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+nc: 23
+names: ['AC Climate Control Block', 'Armrests', 'Bluetooth', 'Center Console', 'Cruise Control', 'Driver Dash Controls', 'Driver Seat', 'Front Left Door Panel', 'Gearbox', 'HMI Multimedia Screen', 'Hand Brake Button', 'Light Knobs', 'Multimedia Control', 'Multimedia Knob Joystick', 'Odometer', 'Passenger Seat', 'Rear Air Vents', 'Rear Left Seat', 'Rear Right Seat', 'Steering Wheel', 'Sunroof', 'Touchscreen', 'Wiper Knobs']
+
+roboflow:
+  workspace: damage-sverity
+  project: flowers-krbsa
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/damage-sverity/flowers-krbsa/dataset/2
