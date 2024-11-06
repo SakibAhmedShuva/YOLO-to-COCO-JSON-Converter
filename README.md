@@ -44,6 +44,7 @@ dataset/
     └── labels/
 ```
 
+
 ## data.yaml Format
 
 ```yaml
@@ -56,6 +57,8 @@ names:
   1: class2
   ...
 ```
+
+sample data.yaml and train folder are provided.
 
 ## Screenshot
 ## Output:
