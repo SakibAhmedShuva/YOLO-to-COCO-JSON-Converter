@@ -1,6 +1,6 @@
 # YOLO-to-COCO-JSON-Converter
 
-A robust Python tool for converting YOLO format annotations to COCO JSON format, with additional support for duplicate file detection.
+A robust Python tool for converting YOLOv8 / YOLOv11 format annotations to COCO JSON format, with additional support for duplicate file detection. You can import the annotations to CVAT or other annotation platforms supporting COCO JSON.
 
 ## Note: Your images folder must not contain any image with same name but different extensions like:
 cars_0001.jpg
