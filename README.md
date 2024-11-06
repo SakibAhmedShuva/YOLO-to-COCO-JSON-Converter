@@ -4,6 +4,7 @@ A robust Python tool for converting YOLO format annotations to COCO JSON format,
 
 ## Note: Your images folder must not contain any image with same name but different extensions like:
 cars_0001.jpg
+
 cars_0001.jpeg
 
 
